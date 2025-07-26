@@ -28,3 +28,8 @@ _Add here a screenshot of a Wireshark packet list view or follow-stream of HTTP 
 ---
 
 > Feel free to explore and use any of the analysis examples for your own learning or coursework.
+
+<img width="643" height="447" alt="Screenshot 2025-07-26 152734" src="https://github.com/user-attachments/assets/765f07be-ffc0-45db-8ff8-9f5d9bde14cf" />
+
+
+
